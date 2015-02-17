@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListViewTutorial", "ListView\ListViewTutorial.csproj", "{039C3BBB-17A7-4D7D-A5F0-9C51E3979ADE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListViewLibrary", "ListViewLibrary\ListViewLibrary.csproj", "{32DDD8D4-45A1-4355-ADC6-BD1C37D7991E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{039C3BBB-17A7-4D7D-A5F0-9C51E3979ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{039C3BBB-17A7-4D7D-A5F0-9C51E3979ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{039C3BBB-17A7-4D7D-A5F0-9C51E3979ADE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{039C3BBB-17A7-4D7D-A5F0-9C51E3979ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{039C3BBB-17A7-4D7D-A5F0-9C51E3979ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{039C3BBB-17A7-4D7D-A5F0-9C51E3979ADE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{32DDD8D4-45A1-4355-ADC6-BD1C37D7991E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32DDD8D4-45A1-4355-ADC6-BD1C37D7991E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32DDD8D4-45A1-4355-ADC6-BD1C37D7991E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32DDD8D4-45A1-4355-ADC6-BD1C37D7991E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
